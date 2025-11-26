@@ -66,7 +66,7 @@ services:
   flink-jobmanager:
   flink-taskmanager:
   redis:
-  bigquery-emulator (اختياري)
+  bigquery-emulator --Optional
   external-system-mock:
   data-generator:
 
